@@ -1,0 +1,17 @@
+body { font-family: 'Special Elite', cursive;
+    background: #daf5f1; 
+   }
+   
+   .header_div { background: white;
+    color: #5900ce;
+    } 
+   
+    .header_div h2 {
+       font-family: 'Birthstone', cursive;
+       font-size: 40px;
+    }
+   
+   .header_div p{ font-family: 'Roboto', sans-serif; color: gray;
+    letter-spacing: 2px; font-size: 12px;
+    font-weight: bold;
+    }
